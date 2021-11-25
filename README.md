@@ -19,10 +19,10 @@ Getting Started
 Screenshots
 -----------
 
-![캡쳐1](screenshots/Screenshot_20211125-135400.png "image1") {: width="30%" height="30%"}
-![캡쳐2](screenshots/Screenshot_20211125-135418.png "image2") {: width="30%" height="30%"}
-![캡쳐3](screenshots/Screenshot_20211125-135430.png "image3") {: width="30%" height="30%"}
-![캡쳐4](screenshots/Screenshot_20211125-135435.png "image4") {: width="30%" height="30%"}
+![캡쳐1](screenshots/Screenshot_20211125-135400.png "image1" | width="30%" height="30%")
+![캡쳐2](screenshots/Screenshot_20211125-135418.png "image2" | width="30%" height="30%")
+![캡쳐3](screenshots/Screenshot_20211125-135430.png "image3" | width="30%" height="30%")
+![캡쳐4](screenshots/Screenshot_20211125-135435.png "image4" | width="30%" height="30%")
 
 
 Support
